@@ -1,0 +1,7 @@
+amilcar IT food 30
+david IT coffee 9
+graham IT tickets 3
+graham IT tickets 2500
+graham IT tickets 2500
+david it newcomputer 150
+david teste teste 100
